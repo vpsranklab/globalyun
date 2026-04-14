@@ -6,7 +6,7 @@ https://vpsworld.org/fanqiang-ranking/
 
 ---
 
-[全球云机场](https://down1.globalyun.cc/#/?code=xt1gTZow)，成立于 2026 年初，是一家专注提供出海专线加速与流媒体解锁服务的网络加速品牌。采用企业级 IPLC / IEPL 专线，并结合智能负载均衡与三网入口优化，尽量保障国内用户连接海外节点的速度与稳定性，晚高峰也有更好的表现。和多种支付方式（USDT / 微信 / 支付宝）
+[全球云机场](https://ddsa.globalyun.cc/#/?code=xt1gTZow)，成立于 2026 年初，是一家专注提供出海专线加速与流媒体解锁服务的网络加速品牌。采用企业级 IPLC / IEPL 专线，并结合智能负载均衡与三网入口优化，尽量保障国内用户连接海外节点的速度与稳定性，晚高峰也有更好的表现。和多种支付方式（USDT / 微信 / 支付宝）
 
 BGP 多线路智能调度 + 专线级出口架构，全程不限速，主流流媒体完整解锁，4K 即点即播，支持 8K 资源，全面支持 ChatGPT、Claude 等 AI 应用与开发工具访问，采用高性能 Shadowsocks 协议，不限制同时在线设备数量。
 
@@ -24,7 +24,7 @@ BGP 多线路智能调度 + 专线级出口架构，全程不限速，主流流�
 
 ## 官方网站
 
-[https://globalyun.cc/](https://down1.globalyun.cc/#/?code=xt1gTZow)
+[https://globalyun.cc/](https://ddsa.globalyun.cc/#/?code=xt1gTZow)
 
 ## 订阅列表
 
@@ -46,8 +46,8 @@ BGP 多线路智能调度 + 专线级出口架构，全程不限速，主流流�
 
 ### 工单
 
-[提交工单](https://down1.globalyun.cc/#/tickets)
+[提交工单](https://globalyun.cc/#/tickets)
 
 ### 在线客服
 
-[通过 Crisp 与在线客服联系](https://down1.globalyun.cc/#/dashboard)
+[通过 Crisp 与在线客服联系](https://globalyun.cc/#/dashboard)
