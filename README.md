@@ -16,7 +16,7 @@ BGP 多线路智能调度 + 专线级出口架构，全程不限速，主流流�
 - **企业级 IPLC / IEPL 专线**
 - 流媒体解锁：Netflix、Disney+、HBO、HUGO 等
 - 生产力解锁：ChatGPT、Claude、Gemini、Copilot 等
-- 配置文件兼容 Clash 格式，支持 Windows/Linux/MacOS/Android/iOS/OpenWrt 全平台
+- 客户端平台支持：Windows、MacOS、Android、iOS
 - **不限制同时在线设备**
 - 付款方式：**支付宝、微信支付**、USDT
 
