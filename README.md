@@ -10,21 +10,64 @@ https://vpsworld.org/fanqiang-ranking/
 
 BGP 多线路智能调度 + 专线级出口架构，全程不限速，主流流媒体完整解锁，4K 即点即播，支持 8K 资源，全面支持 ChatGPT、Claude 等 AI 应用与开发工具访问，采用高性能 Shadowsocks 协议，不限制同时在线设备数量。
 
+⚠️ 在 2026 年 4 月关闭原有订阅链接按钮，暂不支持 Clash、Shadowrocket 等第三方客户端。仅能使用自研客户端使用。
+
 - 主要协议：**Shadowsocks**
 - **企业级 IPLC / IEPL 专线**
 - 流媒体解锁：Netflix、Disney+、HBO、HUGO 等
 - 生产力解锁：ChatGPT、Claude、Gemini、Copilot 等
 - 配置文件兼容 Clash 格式，支持 Windows/Linux/MacOS/Android/iOS/OpenWrt 全平台
 - **不限制同时在线设备**
-- **支付宝、微信支付、USDT** 付款
-
-## Rank Star
-
-⭐⭐⭐⭐⭐
+- 付款方式：**支付宝、微信支付**、USDT
 
 ## 官方网站
 
 [https://globalyun.cc/](https://ddsa.globalyun.cc/#/?code=xt1gTZow)
+
+## 节点地域
+
+- 🇭🇰 香港
+- 🇹🇼 台湾
+- 🇯🇵 日本
+- 🇸🇬 新加坡
+- 🇺🇸 美国
+- 🇬🇧 英国
+- 🇩🇪 德国
+- 🇰🇷 韩国
+- 🇲🇾 马来西亚
+- 🇹🇭 泰国
+
+采用 **IPLC / IEPL 专线**，优势：
+
+- 延迟低，稳定性高
+- 丢包率低
+- 高峰期速度仍保持稳定
+
+## **节点测速**
+
+⌛️ 更新于 2026 年 4 月，测试工具 SpeedTest 为正版解锁。
+
+### SpeedTest.net 影片测试等级
+
+最高解析度：**2160p**
+
+载入时间：**4240ms**
+
+### SpeedTest.net 网络测试
+
+- 香港节点：延迟 100 ms，下载 750 Mbps，上传：50 Mbps
+- 台湾节点：延迟 100 ms，下载 700 Mbps，上传：50 Mbps
+- 日本节点：延迟 120ms，下载 700 Mbps，上传：60 Mbps
+- 新加坡节点：延迟 130ms，下载 600 Mbps，上传：55 Mbps
+- 美国节点：延迟 300ms，下载 500 Mbps，上传：55 Mbps
+
+### Fast.com 网络测试
+
+- 香港节点：延迟 100 ms，下载 1000 Mbps，上传：50 Mbps
+- 台湾节点：延迟：110ms，下载：980 Mbps，上传：50 Mbps
+- 日本节点：延迟：110ms，下载：750 Mbps，上传：60 Mbps
+- 新加坡节点：延迟 120ms，下载 900 Mbps，上传：60 Mbps
+- 美国节点：延迟 180ms，下载 1000 Mbps，上传：40 Mbps
 
 ## 订阅列表
 
@@ -51,3 +94,16 @@ BGP 多线路智能调度 + 专线级出口架构，全程不限速，主流流�
 ### 在线客服
 
 [通过 Crisp 与在线客服联系](https://globalyun.cc/#/dashboard)
+
+## 总结
+
+**全球云机场**是一家性价比高、稳定的专线 VPN 机场：
+
+- 价格低：20 元入门订阅
+- 专线稳定：IPLC / IEPL 线路
+- 抗封锁能力强：采用全平台自研客户端
+- 流媒体解锁能力良好
+
+如果你希望 **低价、稳定、高速、流媒体解锁**，全球云机场值得尝试。
+
+👉 官方网站：[https://globalyun.cc/](https://ddsa.globalyun.cc/#/?code=xt1gTZow)
